@@ -7,6 +7,7 @@ body {
     height: 100vh;
 }
 .container{
+    justify-content: center;
     background: whitesmoke;
     border: 1px solid black;
     border-radius: 15px;
